@@ -43,67 +43,22 @@ There are no formal prerequisites for this course, but having completed any intr
 
 
 ### Mandatory 
-@article{brown2020language,
-  title={Language models are few-shot learners},
-  author={Brown, Tom and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared D and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and others},
-  journal={Advances in neural information processing systems},
-  volume={33},
-  pages={1877--1901},
-  year={2020}
-}
+Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. Advances in neural information processing systems, 33, 1877-1901. [Link](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 
-@article{ouyang2022training,
-  title={Training language models to follow instructions with human feedback},
-  author={Ouyang, Long and Wu, Jeffrey and Jiang, Xu and Almeida, Diogo and Wainwright, Carroll and Mishkin, Pamela and Zhang, Chong and Agarwal, Sandhini and Slama, Katarina and Ray, Alex and others},
-  journal={Advances in neural information processing systems},
-  volume={35},
-  pages={27730--27744},
-  year={2022}
-}
+Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., ... & Lowe, R. (2022). Training language models to follow instructions with human feedback. Advances in neural information processing systems, 35, 27730-27744. [Link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)
 
-@article{touvron2023llama,
-  title={Llama 2: Open foundation and fine-tuned chat models},
-  author={Touvron, Hugo and Martin, Louis and Stone, Kevin and Albert, Peter and Almahairi, Amjad and Babaei, Yasmine and Bashlykov, Nikolay and Batra, Soumya and Bhargava, Prajjwal and Bhosale, Shruti and others},
-  journal={arXiv preprint arXiv:2307.09288},
-  year={2023}
-}
+Touvron, H., Martin, L., Stone, K., Albert, P., Almahairi, A., Babaei, Y., ... & Scialom, T. (2023). Llama 2: Open foundation and fine-tuned chat models. arXiv preprint arXiv:2307.09288. 
+<https://doi.org/10.48550/arXiv.2307.09288>
 
-@article{guo2025deepseek,
-  title={Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning},
-  author={Guo, Daya and Yang, Dejian and Zhang, Haowei and Song, Junxiao and Zhang, Ruoyu and Xu, Runxin and Zhu, Qihao and Ma, Shirong and Wang, Peiyi and Bi, Xiao and others},
-  journal={arXiv preprint arXiv:2501.12948},
-  year={2025}
-}
-
+Guo, D., Yang, D., Zhang, H., Song, J., Zhang, R., Xu, R., ... & He, Y. (2025). Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning. arXiv preprint arXiv:2501.12948.
+<https://doi.org/10.48550/arXiv.2501.12948>
 
 ### Recommended
-@article{bommasani2021opportunities,
-  title={On the opportunities and risks of foundation models},
-  author={Bommasani, Rishi and Hudson, Drew A and Adeli, Ehsan and Altman, Russ and Arora, Simran and von Arx, Sydney and Bernstein, Michael S and Bohg, Jeannette and Bosselut, Antoine and Brunskill, Emma and others},
-  journal={arXiv preprint arXiv:2108.07258},
-  year={2021}
-}
+Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., ... & Liang, P. (2021). On the opportunities and risks of foundation models. arXiv preprint arXiv:2108.07258. <https://doi.org/10.48550/arXiv.2108.07258>
 
-@inproceedings{bender2021dangers,
-  title={On the dangers of stochastic parrots: Can language models be too big?🦜},
-  author={Bender, Emily M and Gebru, Timnit and McMillan-Major, Angelina and Shmitchell, Shmargaret},
-  booktitle={Proceedings of the 2021 ACM conference on fairness, accountability, and transparency},
-  pages={610--623},
-  year={2021}
-}
+Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the dangers of stochastic parrots: Can language models be too big?🦜. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency(pp. 610-623). <https://doi.org/10.1145/3442188.3445922>
 
-@article{dean2022golden,
-  title={A golden decade of deep learning: Computing systems \& applications},
-  author={Dean, Jeffrey},
-  journal={Daedalus},
-  volume={151},
-  number={2},
-  pages={58--74},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-
-
+Dean, J. (2022). A golden decade of deep learning: Computing systems & applications. Daedalus, 151(2), 58-74. <https://doi.org/10.1162/daed_a_01900>
 
 
 
