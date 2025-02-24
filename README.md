@@ -13,7 +13,7 @@ This is a highly interactive course, where the emphasis is on reading the requir
 ## Schedule
 In-person lecture, exercise and paper discussion sessions on:
 * 14.4, 10.00 – 12.00 (Discussing paper [[1]](#1))
-* 15.4, 10.00 – 12.00 (Disucssing paper [[2]](#2), [[3]](#3))
+* 15.4, 10.00 – 12.00 (Discussing paper [[2]](#2), [[3]](#3))
 * 16.4, 10.00 – 12.00 (Quiz, discussing paper [[4]](#4))
 
 Optional feedback and consultation session for final projects:
