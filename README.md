@@ -38,7 +38,7 @@ Deadline for submitting the written component of the final project:
 ## Prerequisites 
 There are no formal prerequisites for this course, but having completed any introductory machine learning and deep learning courses gives a significant advantage. E.g. the course at Aalto Deep Learning with Python D. While this course contains no programming assignments, conceptually the topics are easier to understand with previous hands-on experience.
 
-## Reading list (to be updated)
+## Reading list
 
 
 ### Mandatory 
@@ -66,6 +66,8 @@ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On
 <a id="1">[7]</a> 
 Dean, J. (2022). A golden decade of deep learning: Computing systems & applications. Daedalus, 151(2), 58-74. <https://doi.org/10.1162/daed_a_01900>
 
+### Other materials
 
+[Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY), a great video explaining how GPT-models approximately work.
 
 
